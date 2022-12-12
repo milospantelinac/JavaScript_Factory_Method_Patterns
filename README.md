@@ -1,0 +1,1 @@
+# JavaScript_Factory_Method_Patterns

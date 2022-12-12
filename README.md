@@ -1,1 +1,1 @@
-# JavaScript_Factory_Method_Patterns
+# JavaScript - Factory Method Patterns
